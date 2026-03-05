@@ -39,6 +39,6 @@ Certificate: docs/certificate.pdf
 
 ## Research Poster
 
-<img src="docs/poster.png" width="700">
+<img src="docs/325_21075561_LeQuocBao_0343003697.png" width="700">
 
-Full poster: [PDF](docs/poster.pdf)
+Full poster: [PDF](docs/325_21075561_LeQuocBao_0343003697.pdf)
