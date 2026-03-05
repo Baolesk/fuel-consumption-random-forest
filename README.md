@@ -36,3 +36,9 @@ This project was presented at the Young Scientific Conference (YSC).
 Paper: docs/paper.pdf  
 Poster: docs/poster.png  
 Certificate: docs/certificate.pdf
+
+## Research Poster
+
+<img src="docs/poster.png" width="700">
+
+Full poster: [PDF](docs/poster.pdf)
